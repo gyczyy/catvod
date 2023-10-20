@@ -29,7 +29,7 @@
                 "key": "wogg",
                 "name": "🟢 玩偶",
                 "type": 3,
-                "api": "assets://js/wogg.js",
+                "api": "wogg.js",
                 "ext": "794904c766fc47f38386505b9ef776dd"
             },
             {
