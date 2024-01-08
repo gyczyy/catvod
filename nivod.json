@@ -8,27 +8,27 @@
 "category": [
                   {
 			"title": "电影",
-			"url0": "https://www.nivod4.tv/class.html?channelId=1"
+			"url0": "https://www.nivod7.tv/class.html?channelId=1"
 		},
                   {
 			"title": "电视剧",
-			"url0": "https://www.nivod4.tv/class.html?channelId=2"
+			"url0": "https://www.nivod7.tv/class.html?channelId=2"
 		},
                   {
 			"title": "综艺",
-			"url0": "https://www.nivod4.tv/class.html?channelId=3"
+			"url0": "https://www.nivod7.tv/class.html?channelId=3"
 		},
                   {
 			"title": "动漫",
-			"url0": "https://www.nivod4.tv/class.html?channelId=4"
+			"url0": "https://www.nivod7.tv/class.html?channelId=4"
 		},
                   {
 			"title": "纪录片",
-			"url0": "https://www.nivod4.tv/class.html?channelId=6"
+			"url0": "https://www.nivod7.tv/class.html?channelId=6"
 		},
                   {
 			"title": "短视频",
-			"url0": "https://www.nivod4.tv/class.html?channelId=15"
+			"url0": "https://www.nivod7.tv/class.html?channelId=15"
 		}
 	],    
 
@@ -40,7 +40,7 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//h2/a/@href",
-"vod_link_url":"https://www.nivod4.tv{id}",
+"vod_link_url":"https://www.nivod7.tv{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":false,
