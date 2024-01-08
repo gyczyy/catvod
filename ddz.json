@@ -8,23 +8,23 @@
 "category": [
                   {
 			"title": "电影",
-			"url0": "https://www.dandanzan.com/dianying/",
-			"url1": "https://www.dandanzan.com/dianying/index_{pg}.html"
+			"url0": "https://www.dandanzan.net/dianying/",
+			"url1": "https://www.dandanzan.net/dianying/index_{pg}.html"
 		},
                   {
 			"title": "电视剧",
-			"url0": "https://www.dandanzan.com/dianshiju/",
-			"url1": "https://www.dandanzan.com/dianshiju/index_{pg}.html"
+			"url0": "https://www.dandanzan.net/dianshiju/",
+			"url1": "https://www.dandanzan.net/dianshiju/index_{pg}.html"
 		},
                   {
 			"title": "综艺",
-			"url0": "https://www.dandanzan.com/zongyi/",
-			"url1": "https://www.dandanzan.com/zongyi/index_{pg}.html"
+			"url0": "https://www.dandanzan.net/zongyi/",
+			"url1": "https://www.dandanzan.net/zongyi/index_{pg}.html"
 		},
                   {
 			"title": "动漫",
-			"url0": "https://www.dandanzan.com/dongman/",
-			"url1": "https://www.dandanzan.com/dongman/index_{pg}.html"
+			"url0": "https://www.dandanzan.net/dongman/",
+			"url1": "https://www.dandanzan.net/dongman/index_{pg}.html"
 		}
 	],    
 
@@ -36,7 +36,7 @@
 "vod_image_regex":"",
 "vod_image_url":"{id}",
 "vod_link_id":"//h2/a/@href",
-"vod_link_url":"https://www.dandanzan.com{id}",
+"vod_link_url":"https://www.dandanzan.net{id}",
 "play_regex":"",
 "play_url":"{id}",
 "playlist_flag":false,
