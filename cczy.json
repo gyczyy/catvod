@@ -7,8 +7,8 @@
 "open_with_safari_flag":true,
 "category": [{
 			"title": "最新电影",
-			"url0": "https://www.czzy.top/movie_bt/movie_bt_series/dyy",
-			"url1": "https://www.czzy.top/movie_bt/movie_bt_series/dyy/page/{pg}"
+			"url0": "https://czzy.top/movie_bt/movie_bt_series/dyy",
+			"url1": "https://czzy.top/movie_bt/movie_bt_series/dyy/page/{pg}"
 		},
 		{
 			"title": "美剧",
